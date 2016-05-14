@@ -45,6 +45,10 @@ h2{
 	margin:8%;
 	display:inline-block;
 	}
+img{
+	height: 200px;
+	width: 150px;
+}
 footer{
 	background: #808080;
 }
